@@ -1,0 +1,29 @@
+# Compiled
+*.class
+*.jar
+*.war
+*.ear
+out/
+bin/
+build/
+target/
+
+# Databases
+*.db
+*.sqlite
+
+# IDE
+.idea/
+.eclipse/
+.settings/
+.classpath
+.project
+*.iml
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+logs/
