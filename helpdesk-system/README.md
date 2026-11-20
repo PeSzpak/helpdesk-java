@@ -7,7 +7,7 @@ Aplicação **desktop em Java Swing** com persistência em **SQLite via JDBC**.
 
 ## ▶️ Como executar
 
-> Pré-requisito: **JDK 17+** instalado (`java -version`). O driver SQLite já está incluído na pasta `lib/`.
+> Pré-requisito: **JDK 17+** instalado (`java -version`). Os jars do driver SQLite não vêm no clone (o `.gitignore` ignora `*.jar`): baixe-os em `lib/` como explica o [README da raiz](../README.md#como-rodar).
 
 **macOS / Linux:**
 ```bash
